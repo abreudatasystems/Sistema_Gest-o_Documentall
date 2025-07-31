@@ -1,0 +1,50 @@
+
+> rest-express@1.0.0 dev
+> NODE_ENV=development tsx server/index.ts
+
+5:57:38 AM [express] serving on port 5000
+Browserslist: browsers data (caniuse-lite) is 9 months old. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+✘ [ERROR] Failed to write to output file: open /home/runner/workspace/node_modules/.vite/deps_temp_5422c974/@radix-ui_react-label.js: disk quota exceeded
+
+✘ [ERROR] Failed to write to output file: open /home/runner/workspace/node_modules/.vite/deps_temp_5422c974/@tanstack_react-query.js: disk quota exceeded
+
+✘ [ERROR] Failed to write to output file: open /home/runner/workspace/node_modules/.vite/deps_temp_5422c974/chunk-AXMZZQ2X.js.map: disk quota exceeded
+
+✘ [ERROR] Failed to write to output file: write /home/runner/workspace/node_modules/.vite/deps_temp_5422c974/@mui_material.js: disk quota exceeded
+
+✘ [ERROR] Failed to write to output file: open /home/runner/workspace/node_modules/.vite/deps_temp_5422c974/chunk-AXMZZQ2X.js: disk quota exceeded
+
+✘ [ERROR] Failed to write to output file: open /home/runner/workspace/node_modules/.vite/deps_temp_5422c974/chunk-2K77HOHX.js.map: disk quota exceeded
+
+✘ [ERROR] Failed to write to output file: open /home/runner/workspace/node_modules/.vite/deps_temp_5422c974/chunk-KBTYAULA.js: disk quota exceeded
+
+✘ [ERROR] Failed to write to output file: open /home/runner/workspace/node_modules/.vite/deps_temp_5422c974/chunk-RPCDYKBN.js.map: disk quota exceeded
+
+✘ [ERROR] Failed to write to output file: open /home/runner/workspace/node_modules/.vite/deps_temp_5422c974/chunk-RPCDYKBN.js: disk quota exceeded
+
+✘ [ERROR] Failed to write to output file: open /home/runner/workspace/node_modules/.vite/deps_temp_5422c974/chunk-KBTYAULA.js.map: disk quota exceeded
+
+✘ [ERROR] Failed to write to output file: open /home/runner/workspace/node_modules/.vite/deps_temp_5422c974/chunk-QCHXOAYK.js: disk quota exceeded
+
+/home/runner/workspace/node_modules/vite/node_modules/esbuild/lib/main.js:1472
+  let error = new Error(text);
+              ^
+
+Error: Build failed with 11 errors:
+error: Failed to write to output file: open /home/runner/workspace/node_modules/.vite/deps_temp_5422c974/@radix-ui_react-label.js: disk quota exceeded
+error: Failed to write to output file: open /home/runner/workspace/node_modules/.vite/deps_temp_5422c974/@tanstack_react-query.js: disk quota exceeded
+error: Failed to write to output file: open /home/runner/workspace/node_modules/.vite/deps_temp_5422c974/chunk-AXMZZQ2X.js.map: disk quota exceeded
+error: Failed to write to output file: write /home/runner/workspace/node_modules/.vite/deps_temp_5422c974/@mui_material.js: disk quota exceeded
+error: Failed to write to output file: open /home/runner/workspace/node_modules/.vite/deps_temp_5422c974/chunk-AXMZZQ2X.js: disk quota exceeded
+...
+    at failureErrorWithLog (/home/runner/workspace/node_modules/vite/node_modules/esbuild/lib/main.js:1472:15)
+    at /home/runner/workspace/node_modules/vite/node_modules/esbuild/lib/main.js:945:25
+    at /home/runner/workspace/node_modules/vite/node_modules/esbuild/lib/main.js:1353:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  errors: [Getter/Setter],
+  warnings: [Getter/Setter]
+}
+
+Node.js v20.19.

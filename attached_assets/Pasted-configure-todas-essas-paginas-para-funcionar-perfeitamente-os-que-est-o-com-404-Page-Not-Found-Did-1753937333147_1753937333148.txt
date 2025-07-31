@@ -1,0 +1,132 @@
+configure todas essas paginas para funcionar perfeitamente os que estão com (404 Page Not Found
+Did you forget to add the page to the router?)  e eu quero que  coloque mais funções na parte de cadastrar quero que crie em popup e coloque o controle de acesso, na pare de relatorios que consiga fazer download dos aquivos com as informações cadasstradas e melhore a parte de layout coloque as configurações para funcionar segurançata, preferencia do sistema assinatura digital beckup dados da empresa. aprimore tambem todas as pagens de gestão de pessoas aprimore a gestão documental e dashboard quero que todas as subpages tenhas funcionadliaddes e aprimore o sistema para estar mais com cara de sistema faça com que tudo funcione corretamente 
+
+Dashboard
+Visão Geral
+
+Meus Contratos( 404 Page Not Found
+Did you forget to add the page to the router?)
+
+Atividades Recentes ( 404 Page Not Found
+Did you forget to add the page to the router?)
+
+Contratos e Minutas
+Biblioteca de Minutas
+
+Civil 404 Page Not Found
+Did you forget to add the page to the router?
+
+Trabalhista 404 Page Not Found
+Did you forget to add the page to the router?
+
+Empresarial 404 Page Not Found
+Did you forget to add the page to the router?
+
+Outros 404 Page Not Found
+Did you forget to add the page to the router?
+
+Criar Novo Contrato
+
+Personalização Assistida (IA) 404 Page Not Found
+Did you forget to add the page to the router?
+
+Contratos em Revisão404 Page Not Found
+Did you forget to add the page to the router?
+
+Contratos Finalizados 404 Page Not Found
+Did you forget to add the page to the router?
+
+Inteligência Artificial
+Sugestões de Cláusulas
+
+Atualizações Legislativas 404 Page Not Found
+Did you forget to add the page to the router?
+
+Histórico de Recomendações 404 Page Not Found
+Did you forget to add the page to the router?
+
+Integrações e API
+Documentação da API404 Page Not Found
+Did you forget to add the page to the router?
+
+Chaves de Acesso404 Page Not Found
+Did you forget to add the page to the router?
+
+Logs de Integração 404 Page Not Found
+Did you forget to add the page to the router?
+
+Gestão Documental
+Todos os Documentos
+
+Compartilhados com Clientes 404 Page Not Found
+Did you forget to add the page to the router?
+
+Assinaturas Pendentes 404 Page Not Found
+Did you forget to add the page to the router?
+
+Arquivos Inativos 404 Page Not Found
+Did you forget to add the page to the router?
+
+Gestão de Pessoas
+Clientes404 Page Not Found
+Did you forget to add the page to the router?
+
+Listar Clientes404 Page Not Found
+Did you forget to add the page to the router?
+
+Cadastrar Novo Cliente404 Page Not Found
+Did you forget to add the page to the router?
+
+Visualizar Contratos 404 Page Not Found
+Did you forget to add the page to the router?
+
+Funcionários404 Page Not Found
+Did you forget to add the page to the router?
+
+Listar Funcionários404 Page Not Found
+Did you forget to add the page to the router?
+
+Cadastrar Funcionário404 Page Not Found
+Did you forget to add the page to the router?
+
+Permissões de Acesso 404 Page Not Found
+Did you forget to add the page to the router?
+
+Controle de Acesso
+Perfis e Permissões
+
+Atribuir Níveis de Acesso 404 Page Not Found
+Did you forget to add the page to the router?
+
+Logs de Acesso 404 Page Not Found
+Did you forget to add the page to the router?
+
+Relatórios e Indicadores
+Contratos Gerados
+
+Cláusulas Mais Utilizadas 404 Page Not Found
+Did you forget to add the page to the router?
+
+Uso da Plataforma 404 Page Not Found
+Did you forget to add the page to the router?
+
+Exportar Relatórios (.xlsx/.pdf) 404 Page Not Found
+Did you forget to add the page to the router?
+
+Configurações
+Dados da Empresa404 Page Not Found
+Did you forget to add the page to the router?
+
+Preferências do Sistema404 Page Not Found
+Did you forget to add the page to the router?
+
+Assinatura Digital404 Page Not Found
+Did you forget to add the page to the router?
+
+Segurança e Backup404 Page Not Found
+Did you forget to add the page to the router?
+
+
+
+
+Faça o sistema funcionar profissional para que eu possa usar e colocar para rodar com todas as funções envolvidas e tudo esteja conectado a base de dados crie uma base de dados interna e que eu possa colocar para integrar a base de dados online, crie isso em uma so na parte do admin e coloque na parte de controle de acesso o que o admin vai deixar ou outros user usar 
